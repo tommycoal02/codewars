@@ -148,5 +148,43 @@ console.log('we are winners')
 // sumMix([1,'3','12', 2])
 
 
-===================================
+// ================================h ===
+// function reverseWords(str) {
+//     return str.split("").reverse().join("").split(" ").reverse().join(" ")
+//     }
+//     console.log(reverseWords('IM THE MAN guyyyyy'))
+    
+//     function createPhoneNumber(n){
+//         // let result = numbers.map(i=>Number(i));
+//        const result = n.toString().split(',').join("-")
+//         // console.log(result.toString(''))
+//         return result
+        
+//     }
+//     console.log(createPhoneNumber(['1,2,3,4,5,6,7,8,9']))
 
+
+// PREP way of answering questions from today
+// fizz buzz
+// take in A number is divisible by 5, print from 1 to number. if divisible by 3 fizz, if 5 buzz, if 3 and 5 print fizzz buzz.A
+
+
+// 1 to num, 3 fizz, 5 buzz , if 5&3 fizzBuzz 
+//  Peremeter : Num, positive, whole 
+
+
+
+// function fizzBuzz(num){
+//     for(i=0; i < num.length; i++){
+//         if(num% 3== 0 && num % 5 == 0){
+//             console.log("fizBuzz")
+//         }else if(3% num ==0){
+//             console.log("fizz")
+//         }else if(5 % num == 0){
+//             console.log("buzz")
+//         }
+//     }
+//     // looping through number 
+//     // conditions 
+// }
+// fizzBuzz(15)
